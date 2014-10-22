@@ -2,8 +2,6 @@
 
 L'objectif de ce guide est d'harmoniser les pratiques de développement dans l'équipe de Captive Studio. Ce texte est une base de connaissance et un support de communication. 
 
-Les donnes 
-
 ##Langages
 
 ###HTML
