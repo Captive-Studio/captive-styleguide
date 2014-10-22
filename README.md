@@ -26,6 +26,8 @@ TODO : responsabilités Routeurs, View, template
 
 ###Git
 
-Convention messages de commit : commence par un vers d'action conjugué.
+Convention messages de commit : commence par un verbe d'action conjugué.
+
+> ex: "met en place la structure de base"
 
 Debat : en Français ou en anglais ?
