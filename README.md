@@ -10,7 +10,10 @@ Moins de div, plus de balises HTML5 ? Lesquelles ?
 
 ###CSS
 
-TODO : Convention de nommage pour les classes 
+Convention de nommage pour les classes : Spinal-case (dit aussi kebab-case ou caterpillar-case).
+
+> .validate-zone
+> .right-column
 
 ###CoffeeScript
 
