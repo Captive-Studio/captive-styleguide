@@ -34,3 +34,7 @@ Convention messages de commit : commence par un verbe d'action conjugué.
 > ex: "met en place la structure de base"
 
 Debat : en Français ou en anglais ?
+
+###Kanban
+
+Les actions sont divisées en deux catégories: les features démontrables et les sous-taches. Les features sont écrites sur de grands post-it et terminent leur parcours dans la zone OK Demo. Les taches sont écrites sur de petits post-it et sont destinées a la zone OK du tableau.
