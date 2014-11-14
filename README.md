@@ -8,6 +8,8 @@ L'objectif de ce guide est d'harmoniser les pratiques de développement dans l'�
 
 Moins de div, plus de balises HTML5 ? Lesquelles ?
 
+images: la balise img se termine par un slash
+
 ###CSS
 
 Convention de nommage pour les classes : Spinal-case (dit aussi kebab-case ou caterpillar-case).
@@ -24,6 +26,10 @@ Convention de nommage pour les classes : Spinal-case (dit aussi kebab-case ou ca
 ###Backbone
 
 TODO : responsabilités Routeurs, View, template
+
+##Testing
+
+Les noms de test doivent exprimer ce qu'ils testent.
 
 ##Outils
 
