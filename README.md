@@ -44,3 +44,7 @@ Debat : en Français ou en anglais ?
 ###Kanban
 
 Les actions sont divisées en deux catégories: les features démontrables et les sous-taches. Les features sont écrites sur de grands post-it et terminent leur parcours dans la zone OK Demo. Les taches sont écrites sur de petits post-it et sont destinées a la zone OK du tableau.
+
+##Documentation
+
+[Mobile Web App Checklist](http://www.luster.io/blog/9-29-14-mobile-web-checklist.html)
