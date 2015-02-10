@@ -1,3 +1,10 @@
+10/02/15
+
+Perte de temps, Monte Paschi et environnement de travail.
+
+Lancement d'un spike : comment executer l'appli Monte Paschi en local.
+Timebox : Une demi journée de binomage
+
 03/02/15
 
 Mettre a jour les dettes (avec les tests de l'ADT par exemple)
