@@ -1,5 +1,13 @@
 # Décisions de rétrospectives
 
+### 24/02/15
+
+PB de gestion du temps : Xeamless a pris deux fois plus de temps que prévu.
+
+* Décision : toute tache en cours depuis plus de deux heures devient immédiatement bloquée.
+
+"oubli" du design mobile : ajoute de la complexité, nécessité d'en parler avant de commencer à intégrer.
+
 ### 17/02/15
 
 * Leçon
