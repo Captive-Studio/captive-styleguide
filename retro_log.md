@@ -1,5 +1,19 @@
 # Décisions de rétrospectives
 
+### 03/03/15
+
+Toujours la gestion du temps et la productivité : 
+
+Désir de diminuer le nombre de frameworks css (après avoir utilisé foundation et bootstrap en deux semaines)
+
+* décisions:
+
+  - réorganiser les cables entre les bureaux
+  - spike : benchmark des frameworks CSS: chercher celui qui sera la référence, qui pourra servir dans tous les projets. Doit laisser le dom propre et permettre le prototypage rapide.
+  - Objectif : réduire le nombre de notifications logentries => travailler la performance. 
+      - Deux séances d'une heure par semaine.
+      - Indicateur : mesurer le nombre de mails Logentries reçus par semaine et par projet. 
+
 ### 24/02/15
 
 PB de gestion du temps : Xeamless a pris deux fois plus de temps que prévu.
