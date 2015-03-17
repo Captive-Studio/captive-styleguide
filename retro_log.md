@@ -1,5 +1,12 @@
 # Décisions de rétrospectives
 
+###17/03/15
+
+Sharepoint comme sujet principal : sentiment général de ne pas maîtriser, de ne pas avoir les bons outils, de ne pas connaitre les bons languages. 
+
+Décision de ne pas y passer trop de temps, besoin de plus d'informations de la part du client avant d'investir du temps. Deux spikes sont prévus sur des points clés du projet.
+
+
 ### 03/03/15
 
 Toujours la gestion du temps et la productivité : 
