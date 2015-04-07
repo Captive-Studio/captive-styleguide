@@ -1,5 +1,13 @@
 # Décisions de rétrospectives
 
+###07/04/15
+
+Satisfaction générale après une démo de qualité mais un peu longue.
+
+Réflexion pour plus d'efficacité :
+
+   En démo, ne pas ouvrir d'inspecteur ou entrer dans le détail technique. Répondre au questions par oui/non/peut-être, et en discuter après. 
+
 ###17/03/15
 
 Sharepoint comme sujet principal : sentiment général de ne pas maîtriser, de ne pas avoir les bons outils, de ne pas connaitre les bons languages. 
