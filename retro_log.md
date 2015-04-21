@@ -1,5 +1,11 @@
 # Décisions de rétrospectives
 
+###21/04/15
+
+Mauvaise itération, très peu de valeur produite. Constat que les décisions ne sont pas tenues, par exemple que le bînomage n'est plus pratiqué. 
+
+Décision de réinsister sur le binomage, en fixant une phrase "Sur quoi on binome ce matin?", qui est censé ancrer cette pratique à la fin de chaque daily meeting, pour en faire un réflexe, pour l'intégrer.
+
 ###07/04/15
 
 Satisfaction générale après une démo de qualité mais un peu longue.
