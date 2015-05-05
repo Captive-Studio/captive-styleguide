@@ -1,5 +1,11 @@
 # Décisions de rétrospectives
 
+###05/05/15
+
+Réflexion sur la méthode à utiliser pour aborder un problème complexe techniquement (comme la gestion du cache d'images sur l'ADT).
+
+Décision : passer 30 minutes par jour sur le sujet technique de la semaine. Pour la semaine suivante : la gestion des locales dans l'ADT.
+
 ###21/04/15
 
 Mauvaise itération, très peu de valeur produite. Constat que les décisions ne sont pas tenues, par exemple que le bînomage n'est plus pratiqué. 
