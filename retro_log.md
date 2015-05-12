@@ -1,5 +1,13 @@
 # Décisions de rétrospectives
 
+###12/05/15
+
+Semaine pasée à galérer sur des sujets complexes et non maîtrisés, comme le test d'une app sur Windows phone. Pas assez de valeur produite, et beaucoup de petites taches oubliées. 
+
+Cinq mots clés : Inconnu, Oublis, Tunnel, quick wins, Big wins
+
+Décisions : Pomodoro obligatoire, prise de notes directement sur des post-its orange pendans la rétro. 
+
 ###05/05/15
 
 Réflexion sur la méthode à utiliser pour aborder un problème complexe techniquement (comme la gestion du cache d'images sur l'ADT).
