@@ -8,7 +8,7 @@ L'objectif de ce guide est d'harmoniser les pratiques de développement dans l'�
 
 Moins de div, plus de balises HTML5 ? Lesquelles ?
 
-images: la balise img se termine par un slash
+images: la balise img se termine par un slash ?
 
 ###CSS
 
@@ -47,4 +47,4 @@ Les actions sont divisées en deux catégories: les features démontrables et le
 
 ##Documentation
 
-[Mobile Web App Checklist](http://www.luster.io/blog/9-29-14-mobile-web-checklist.html)
+[Mobile Web App Checklist](http://luster-io.github.io/blog/9-29-14-mobile-web-checklist.html)
